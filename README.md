@@ -9,9 +9,9 @@
 ---
 ![Screenshot 2024-11-04 085911](https://github.com/user-attachments/assets/ce44cd37-e210-4aaf-97fe-bbfad2d7dcce)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ce44cd37-e210-4aaf-97fe-bbfad2d7dcce" width="32%" height="190px"/>
-  <img src="https://github.com/user-attachments/assets/c7bfbd45-8c25-4a3c-af35-a44eaa0f4d28" width="32%" height="190px"/>
-  <img src="https://github.com/user-attachments/assets/8ce8357a-69d5-46b7-b94d-a5f638c0da92" width="32%" height="190px"/>
+  <img src="https://github.com/user-attachments/assets/ce44cd37-e210-4aaf-97fe-bbfad2d7dcce" width="32%" height="170px"/>
+  <img src="https://github.com/user-attachments/assets/c7bfbd45-8c25-4a3c-af35-a44eaa0f4d28" width="32%" height="170px"/>
+  <img src="https://github.com/user-attachments/assets/8ce8357a-69d5-46b7-b94d-a5f638c0da92" width="32%" height="170px"/>
 </div>
 
 ## ✨ Key Features
@@ -32,9 +32,9 @@
 ![Screenshot 2024-11-04 100003](https://github.com/user-attachments/assets/62fcfbcd-a37f-4d40-845e-f81bfc585279)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b79d65d2-b096-4a24-a8fd-e9f216ab4fef" width="32%" height="190px"/>
-  <img src="https://github.com/user-attachments/assets/6ed99c23-1760-46c8-9d47-77bf872eca23" width="32%" height="190px"/>
-  <img src="https://github.com/user-attachments/assets/1c37e646-650c-47b3-b93f-9b5e1206b0d4" width="32%" height="190px"/>
+  <img src="https://github.com/user-attachments/assets/b79d65d2-b096-4a24-a8fd-e9f216ab4fef" width="32%" height="170px"/>
+  <img src="https://github.com/user-attachments/assets/6ed99c23-1760-46c8-9d47-77bf872eca23" width="32%" height="170px"/>
+  <img src="https://github.com/user-attachments/assets/1c37e646-650c-47b3-b93f-9b5e1206b0d4" width="32%" height="170px"/>
 </div>
 
 ### 📊 Comprehensive Reporting
